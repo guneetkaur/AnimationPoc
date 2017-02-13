@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_71ddd255a6bc0bb53138ddf016315a1868bfeff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_163b4a38598eca090d1e86d3977465c9bbf12be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_eaf7835e7e8259e5adf82183311d55f758b0ab4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_1c5ea859412972c2df3f162a4987df334a2d81e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_627849a3cf99158288e8992c48c8137e4df8c34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_3b4c5a14a5d7a51e63e6e4cce0ed249c8d079145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_de4eed4dc3cd7c2667f4bd65022749ff7ad4fbcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_fe567ff1ce536c9453a994e5cebe1f42f81a9c0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_3bdfb912bce7579165f325399b28d7d1541b7f92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/B0097489/android projects/AirtelTableProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_ea7426d058c8c9ee6bc72c5eaf73773fa8557dcd.jar" />
+    </item>
+
+</items>
